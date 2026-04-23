@@ -14,7 +14,7 @@
 
 * **Languages:** Java, Python, JavaScript, SQL.
 * **Game Development:** Android Native, Physics Engine Optimization, UI/UX implementation.
-* **Quality Assurance:** Manual Testing, Safety Compliance, API Testing (REST).
+* **Quality Assurance:** Automation and Manual Testing, Safety Compliance, API Testing (REST).
 * **DevOps & Workflow:** Git, Docker, GitHub.
 
 ---
