@@ -39,7 +39,7 @@
 ---
 
 📫 **Let’s Connect**
-
+* **Portfolio:** [https://temusoft.lovable.app]
 * **LinkedIn:** [linkedin.com/in/temesgen-kefie-a7a501203](https://linkedin.com/in/temesgen-kefie-a7a501203)
 * **Upwork:** [Temesgen's Upwork Profile](https://www.upwork.com/freelancers/-0172dcae653b7baf3b)
 * **Email:** [temusoft2012@gmail.com](mailto:temusoft2012@gmail.com)
