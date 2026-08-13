@@ -4,24 +4,24 @@
 
 ## I am a dedicated problem-solver focused on delivering polished gameplay mechanics and high-quality, stable systems.
 
-* 🎮 **Game Development:** Specialist in Android Native, architecting high-performance games and optimizing physics simulations.
 * 🛡️ **Quality Assurance:** Extensive experience in comprehensive testing for critical systems, including Air Traffic Control (ATC) safety standards.
+* 🎮 **Game Development:** Specialist in Android Native, architecting high-performance games and optimizing physics simulations.
 * 🚀 **Proven Impact:** Delivered 280+ Android native games with over 80 5-star ratings on Upwork.
 
 ---
 
 ## 🔧 Skills & Tools
 
-* **Languages:** Java, Python, JavaScript, SQL.
+* **Languages:** Java, Python, JavaScript, Flutter, SQL.
 * **Game Development:** Android Native, Physics Engine Optimization, UI/UX implementation.
 * **Quality Assurance:** Automation and Manual Testing, Safety Compliance, API Testing (REST).
-* **DevOps & Workflow:** Git, Docker, GitHub.
+* **DevOps & Workflow:** Git, Docker.
 
 ---
 
 ## 📂 Professional Experience
 
-### **QA Engineer** | **Tern Systems** *(Feb 2022 – Present)*
+### **QA Engineer** | **Tern Systems** *(March 2022 – Present)*
 * Conduct comprehensive testing of Air Traffic Control (ATC) systems to ensure maximum safety and performance.
 * Identify and resolve critical system defects, significantly enhancing system reliability.
 
